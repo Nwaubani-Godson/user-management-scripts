@@ -1,6 +1,6 @@
 # User Creation and Permission Setup Script
 
-A Bash script to automate the creation of Linux users, assign them to a group, set directory permissions, and enforce a secure password policy.
+This Bash script to automate the creation of Linux users, assign them to a group, set directory permissions, and enforce a secure password policy.
 
 ---
 
